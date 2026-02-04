@@ -5,13 +5,9 @@ This is a simple full-stack Book Store application built using React for the fro
 ✨ Features
 
 View all books
-
 Add a new book
-
 View book details
-
 Edit book information
-
 Delete books
 
 🛠️ Tech Stack
